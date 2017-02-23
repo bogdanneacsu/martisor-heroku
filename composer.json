@@ -1,0 +1,6 @@
+{
+    "require": {
+        "intervention/image": "~1.6",
+        "nmcteam/image-with-text": "~2.0"
+    }
+}
